@@ -3,7 +3,10 @@ This repository contains my personal notes and learning summaries from TryHackMe
 ---
 ## Rooms Covered
 
-- [Room 1: Defensive Security Intro](./room1-Offensive Security Intro/README.md) https://github.com/amreenhassan13/TryHackMe-NOTES/tree/main/room1-Offensive%20Security%20Intro#readme
+## Rooms Covered
+
+- [Room 1: Offensive Security Intro](https://github.com/amreenhassan13/TryHackMe-NOTES/tree/main/room1-Offensive%20Security%20Intro#readme)
+
 - [Room 2: Defensive Security Intro](./room2-roomname/README.md)
 - ...
 
