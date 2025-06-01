@@ -118,3 +118,7 @@ Malware = Malicious Software. Types include:
 - **Static Analysis**: Examine code without execution (e.g., file inspection, reverse engineering).
 - **Dynamic Analysis**: Execute in sandbox environment to observe behavior.
 
+### AbuseIPDB and Cisco Talos Intelligence
+
+AbuseIPDB and Cisco Talos Intelligence are open-source databases used to check the reputation and location of IP addresses. These tools are commonly used by security analysts to assist in alert investigations.
+
