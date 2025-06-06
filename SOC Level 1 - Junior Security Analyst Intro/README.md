@@ -1,21 +1,49 @@
-# 🛡️ SOC Level 1 - Junior Security Analyst
+# 🛡️ TryHackMe: SOC Level 1 - Junior Security Analyst Intro
 
-## 🔍 Role Overview
-In this lab, you assume the role of a **Triage Specialist** within a Security Operations Center (SOC). Your primary objective is to monitor alerts, detect malicious activity, and initiate appropriate response actions.
+## 📘 Room Overview
+This TryHackMe room introduces the **SOC Level 1 Junior Security Analyst** role, focused on triage and initial incident response within a Security Operations Center (SOC).
 
-## 🧪 Lab Workflow
+You will act as a **Triage Specialist**, using a static SIEM dashboard to detect, analyze, and respond to suspicious activity.
+
+---
+
+## 🎯 Objectives
+
+- Understand the role of a SOC Tier 1 Analyst
+- Detect suspicious activity via alerts
+- Identify malicious IP addresses
+- Validate threats using external tools
+- Escalate events when needed
+- Block threats after approval
+- Investigate any messages or indicators left by the attacker
+
+---
+
+## 🔄 Workflow
 
 1. **Detect**  
-   Monitor the SIEM dashboard for suspicious alerts.
+   Monitor alerts in the SIEM dashboard to find anomalies.
 
 2. **Validate**  
-   Inspect alerts and verify if the IP address is malicious using an IP scanner.
+   Use IP scanning tools to check if the IP is malicious.
 
 3. **Escalate**  
-   If the IP shows successful authentication or other advanced indicators, escalate to a senior SOC member.
+   If needed (e.g., successful login from malicious IP), escalate to a higher-level SOC analyst.
 
-4. **Respond**  
-   Once approved, **block** the confirmed malicious IP address.
+4. **Block**  
+   After approval, block the confirmed malicious IP.
 
 5. **Investigate**  
-   Examine messages or artifacts left by the attacker for further analysis.
+   Analyze any attacker messages or system changes.
+
+---
+
+## 🛠️ Tools Used
+
+- SIEM Dashboard (provided in lab)
+- IP Scanners (e.g., VirusTotal, AbuseIPDB)
+
+---
+
+## ✅ Completion
+After completing the steps, you’ll have triaged a basic incident and escalated/responded appropriately — a core task of SOC Level 1 Analysts.
