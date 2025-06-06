@@ -9,7 +9,7 @@ This repository contains my personal notes and learning summaries from TryHackMe
 
 - [Room 2: Defensive Security Intro](https://github.com/amreenhassan13/TryHackMe-NOTES/tree/main/room2-Defensive%20Security%20Intro#readme)
 
-- [**SOC Level 1 - Junior Security Analyst Intro**](README.md)
+- [**SOC Level 1 - Junior Security Analyst Intro**](https://github.com/amreenhassan13/TryHackMe-NOTES/tree/03419c5fda56256c3122c392d2d4fafc9e9a3eca/SOC%20Level%201%20-%20Junior%20Security%20Analyst%20Intro)
 - 
 
 
